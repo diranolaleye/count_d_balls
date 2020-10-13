@@ -1,6 +1,6 @@
 # count_d_balls
 
-[![Download Cortado on the App Store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://apps.apple.com/gb/developer/oladiran-olaleye/id1533557291)
+[![Download Cortado on the App Store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://apps.apple.com/gb/app/count-d-balls/id1533557289#?platform=iphone)
 
 ### A Dynamic Visual Acuity Test Meter
 
