@@ -1,4 +1,4 @@
-# count_d_balls
+# Count_d_Balls
 
 [![Download Cortado on the App Store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://apps.apple.com/gb/app/count-d-balls/id1533557289#?platform=iphone)
 
