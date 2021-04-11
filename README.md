@@ -10,4 +10,4 @@ There are seven different types of balls - one for each color of the rainbow.
 
 Your final score is a measure of your visual acuity on a scale of 100.
 
-<img src ="Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202020-09-26%20at%2019.27.49.png"></a>
+<!--<img src ="Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202020-09-26%20at%2019.27.49.png"></a>-->
